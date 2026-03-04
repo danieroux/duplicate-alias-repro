@@ -1,0 +1,5 @@
+{:main a-ns
+ :output-to "out/index.js"
+ :output-dir "out"
+ :target :bundle
+ :bundle-cmd {:none ["npx" "webpack" "./out/index.js" "-o" "out" "--mode=development"]}}
