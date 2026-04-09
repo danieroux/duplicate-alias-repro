@@ -1,0 +1,7 @@
+{:source-paths ["src"]
+ :builds
+ {:app
+  {:target :browser
+   :output-dir "public/js"
+   :asset-path "/js"
+   :modules {:base {:entries [duplicate-alias-repro]}}}}}

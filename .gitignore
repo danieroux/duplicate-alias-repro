@@ -1,0 +1,8 @@
+/node_modules
+/.direnv
+/public
+/out
+/.idea
+/.cpcache
+/.clj-kondo
+/.shadow-cljs

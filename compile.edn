@@ -1,4 +1,4 @@
-{:main a-ns
+{:main duplicate-alias-repro
  :output-to "out/index.js"
  :output-dir "out"
  :target :bundle
